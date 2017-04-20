@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/src/debug/shaders"/></dataSet></merger>

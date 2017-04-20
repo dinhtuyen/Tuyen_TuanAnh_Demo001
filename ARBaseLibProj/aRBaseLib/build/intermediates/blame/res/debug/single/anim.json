@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/tuananh/.android/build-cache/880b316bf77eae07f22dd141241d3cd80019c3db/output/res/anim/abc_fade_out.xml"
+    }
+]

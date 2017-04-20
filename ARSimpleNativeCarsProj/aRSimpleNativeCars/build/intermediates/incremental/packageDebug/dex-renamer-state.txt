@@ -1,0 +1,4 @@
+#Thu Apr 20 15:59:38 ICT 2017
+base.0=/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

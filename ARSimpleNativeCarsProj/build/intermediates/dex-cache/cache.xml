@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/bundles/default/libs/jpct_ae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f4eaa06ccd9554db4895f146d53906526c0a1c4">
+        <dex dex="/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/jpct_ae_d9930cafb57c545b9c2eab082fc222a2b77d43e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARBaseLibProj/aRBaseLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="345181bb365bffbb38ff9d9c536b50566fb697c4">
+        <dex dex="/home/tuananh/Industrial4/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes_a06906212887f51d2ddf168941ed8b35aaffbe66.jar" />
+    </item>
+
+</items>
